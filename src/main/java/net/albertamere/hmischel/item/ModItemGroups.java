@@ -22,7 +22,8 @@ public class ModItemGroups {
                         entries.add(Items.HEART_OF_THE_SEA);
                         entries.add(Items.FERMENTED_SPIDER_EYE);
                         entries.add(ModItems.MOLTEN_GOLD);
-                        entries.add(Items.DIAMOND);
+                        entries.add(ModItems.ROYAL_APPLE);
+                        entries.add(ModItems.MOLTEN_GOLD_AMALGAM);
                     }).build());
 
 

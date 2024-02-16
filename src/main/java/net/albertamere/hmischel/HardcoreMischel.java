@@ -3,6 +3,7 @@ package net.albertamere.hmischel;
 import net.fabricmc.api.ModInitializer;
 
 import net.albertamere.hmischel.item.ModItems;
+import net.albertamere.hmischel.potion.ModPotions;
 import net.albertamere.hmischel.item.ModItemGroups;
 
 import org.slf4j.Logger;
@@ -17,6 +18,7 @@ public class HardcoreMischel implements ModInitializer {
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModPotions.registerModPotions();
 	}
 }
 

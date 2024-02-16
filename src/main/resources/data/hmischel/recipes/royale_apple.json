@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "#A#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "hmischel:molten_gold_amalgam"
+        },
+        "R": {
+            "item": "hmischel:molten_gold"
+        },
+        "A": {
+            "item": "minecraft:apple"
+        }
+    },
+    "result": {
+        "item": "hmischel:royal_apple",
+        "count": 1
+    }
+}

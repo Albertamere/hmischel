@@ -1,6 +1,7 @@
 package net.albertamere.hmischel.item;
 
 import net.albertamere.hmischel.HardcoreMischel;
+
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 
 import net.minecraft.item.Item;
@@ -19,6 +20,11 @@ public class ModItems {
     public static final Item MOLTEN_GOLD = registerItem("molten_gold", 
         new Item(new FabricItemSettings()));
 
+    public static final Item MOLTEN_GOLD_AMALGAM = registerItem("molten_gold_amalgam", 
+        new Item(new FabricItemSettings()));
+
+    public static final Item ROYAL_APPLE = registerItem("royal_apple", 
+        new Item(new FabricItemSettings()));
     
     //Registering
     private static Item registerItem(String name, Item item) {

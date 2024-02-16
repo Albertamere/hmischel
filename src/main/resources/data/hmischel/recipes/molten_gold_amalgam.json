@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients": [
+        {"item": "hmischel:molten_gold"}, 
+        {"item": "hmischel:molten_gold"}, 
+        {"item": "hmischel:molten_gold"}, 
+        {"item": "hmischel:molten_gold"}, 
+        {"item": "hmischel:molten_gold"}, 
+        {"item": "hmischel:molten_gold"}, 
+        {"item": "hmischel:molten_gold"}, 
+        {"item": "hmischel:molten_gold"}, 
+        {"item": "hmischel:molten_gold"}
+    ],
+
+    "result": {
+      "item": "hmischel:molten_gold_amalgam",
+      "count": 1
+    }
+}

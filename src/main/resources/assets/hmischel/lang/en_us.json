@@ -2,5 +2,8 @@
     "itemgroup.hmischel_group":"Hardcore Mischel",
     
     "item.hmischel.eye_of_the_sea":"Eye of the sea",
-    "item.hmischel.molten_gold":"Molten Gold"
+    "item.hmischel.molten_gold":"Molten Gold",
+    "item.hmischel.molten_gold_amalgam":"Molten Gold Amalgam",
+    "item.hmischel.royal_apple":"Royal Apple",
+    "item.minecraft.lingering_potion.effect.modded_regen":"Modded Regen"
 }
